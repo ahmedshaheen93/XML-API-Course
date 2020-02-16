@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Day1-ChangeDataOnXml/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Day1-ChangeDataOnXml/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Day1-CreatXml/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Day1-CreatXml/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Day1-PrintXml/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Day1-PrintXml/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

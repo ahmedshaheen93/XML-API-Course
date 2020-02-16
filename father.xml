@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Father age="52">
+    <name>mohamed</name>
+    <child age="26" name="ahmed">
+        <school>iti</school>
+    </child>
+</Father>

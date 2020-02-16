@@ -1,0 +1,12 @@
+
+Fsquid:S11483"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ßÞÙí„.
+xsquid:S4435)"ZSecure this "Transformer" by either disabling external DTDs or enabling secure processing.(Ý‰Ë–8´ÊÙí„.
+Fsquid:S11481"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ßÞÙí„.
+bsquid:S2147 "DCombine this catch with the one at line 30, which has the same body.(ï­£Ä8¢ÆÇí„.
+Fsquid:S1148!"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¢ÆÇí„.
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ñ†¸Ñ8”êÁí„.
+gsquid:S21472"DCombine this catch with the one at line 48, which has the same body.(¯þ¼ ùÿÿÿÿ8ßÞÙí„.
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¢ÆÇí„.
+Fsquid:S1148#"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¢ÆÇí„.
+bsquid:S2147""DCombine this catch with the one at line 30, which has the same body.(Ã‡²ö8¢ÆÇí„.
+Ksquid:S2755"-Disable XML external entity (XXE) processing.(ÅŠ÷á8­¥Çí„.

@@ -1,0 +1,9 @@
+
+`squid:S2147("DCombine this catch with the one at line 38, which has the same body.(¯þ¼ ùÿÿÿÿ
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ñ†¸Ñ
+?squid:S1148'"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148)"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+qsquid:S4435"ZSecure this "Transformer" by either disabling external DTDs or enabling secure processing.(Ý‰Ë–
+Dsquid:S2755"-Disable XML external entity (XXE) processing.(ÅŠ÷á
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+jsquid:UnusedPrivateMethod-"9Remove this unused private "getFileFromResources" method.(’÷ˆ”úÿÿÿÿ8¦©¾î„.

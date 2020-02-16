@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!-- Fig. 8.12 : intro.xml             --><!-- Simple introduction to XML markup --><myMessage>
+   <message>hello from my program =0</message>
+   <message>hello from my program =1</message>
+   <message>hello from my program =2</message>
+   <message>hello from my program =3</message>
+   <message>hello from my program =4</message>
+   <message>hello from my program =5</message>
+   <message>hello from my program =6</message>
+   <message>hello from my program =7</message>
+   <message>hello from my program =8</message>
+   <message>hello from my program =9</message>
+   <message>hello from my program =10</message>
+   <message>hello from my program =11</message>
+</myMessage><!--
+ **************************************************************************
+ * (C) Copyright 2001 by Deitel & Associates, Inc. and Prentice Hall.     *
+ * All Rights Reserved.                                                   *
+ *                                                                        *
+ * DISCLAIMER: The authors and publisher of this book have used their     *
+ * best efforts in preparing the book. These efforts include the          *
+ * development, research, and testing of the theories and programs        *
+ * to determine their effectiveness. The authors and publisher make       *
+ * no warranty of any kind, expressed or implied, with regard to these    *
+ * programs or to the documentation contained in these books. The authors *
+ * and publisher shall not be liable in any event for incidental or       *
+ * consequential damages in connection with, or arising out of, the       *
+ * furnishing, performance, or use of these programs.                     *
+ **************************************************************************
+-->
