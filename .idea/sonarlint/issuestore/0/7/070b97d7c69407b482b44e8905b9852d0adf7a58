@@ -1,8 +1,21 @@
 
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÔÖàåùÿÿÿÿ8û…×ñ„.
+nsquid:S1192"KDefine a constant instead of duplicating this literal "NodeName =" 4 times.(‰úÜ”ýÿÿÿÿ8îú¾ñ„.
 [
-squid:S106"9Replace this use of System.out or System.err by a logger.(¯ñæ—ÿÿÿÿÿ8Ôâ¶ï„.
+squid:S106-"9Replace this use of System.out or System.err by a logger.(©ö€³ûÿÿÿÿ8îú¾ñ„.
 V
-squid:S106"9Replace this use of System.out or System.err by a logger.(–·¾¾8œª¡ï„.
+squid:S106"9Replace this use of System.out or System.err by a logger.(µèéð8ÌŽ¼ï„.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ú¼÷‹øÿÿÿÿ8ŠåÚð„.
 V
-squid:S106
-"9Replace this use of System.out or System.err by a logger.(µèéð8ÌŽ¼ï„.
+squid:S1061"9Replace this use of System.out or System.err by a logger.(¥ÚÒ‹8îú¾ñ„.
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(‰úÜ”ýÿÿÿÿ8îú¾ñ„.
+[
+squid:S106."9Replace this use of System.out or System.err by a logger.(Ú¼÷‹øÿÿÿÿ8îú¾ñ„.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰úÜ”ýÿÿÿÿ8ÛéÔð„.
+V
+squid:S106 "9Replace this use of System.out or System.err by a logger.(¥ÚÒ‹8ÄŸ©ñ„.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(©ö€³ûÿÿÿÿ8‘‡Ùð„.

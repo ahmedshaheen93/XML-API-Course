@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3077f2c3-c7b7-4063-b4e9-cff14d12d17f" name="Default Changelist" comment="" />
+    <list default="true" id="3077f2c3-c7b7-4063-b4e9-cff14d12d17f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/04b2aa6eff6b1f1f5600302ea04dd6a3ac92237a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/2/1246211affe7b925629ce32c065bea58377bcce5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d5129394b4098780ab7df7ca847748a4ae2ad09" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/c/6c0bcc0cbd5aaa410372af915a3887518b60859b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7ae27a3153e0d431f137c6342fd3d094cb639f84" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/8896167971bb44b8ecdfa8d3d0852c5bb582f6d6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b053804dc87453e767b81a7e8c883c51f661e4b6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f451e19411c45c63bc50867050c0a2f93e295be9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/fe226ce45cf1a6856354b534291f26d83177eab6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2-JEE-Json/Day2-JEE-Json.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2-JEE-Json/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2-JEE-Json/src/main/java/com/shaheen/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2-JEE-Json/src/main/java/com/shaheen/WriteJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2-JEE-Json/src/main/java/com/shaheen/model/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2-JEE-Json/src/main/java/com/shaheen/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2-SaxParser/Day2-SaxParser.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2-SaxParser/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2-SaxParser/src/main/java/com/shaheen/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2-SaxParser/src/main/java/com/shaheen/MyParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2-SaxParser/src/main/java/com/shaheen/Parse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/0618d96fe727f1ee700db63391faba9cb47fd87a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/0618d96fe727f1ee700db63391faba9cb47fd87a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/070b97d7c69407b482b44e8905b9852d0adf7a58" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/070b97d7c69407b482b44e8905b9852d0adf7a58" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/3/13d5159946ccdb1ca7ab880ded025c5a183b509f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/3/13d5159946ccdb1ca7ab880ded025c5a183b509f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/3/a3f6cd3731848323cd702e54a5b483edad36a4cb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/3/a3f6cd3731848323cd702e54a5b483edad36a4cb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/acce1f978e258e3ff5ff1e26f81d968b35330b10" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/acce1f978e258e3ff5ff1e26f81d968b35330b10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b36186b154066055d8693affef67387329594f09" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b36186b154066055d8693affef67387329594f09" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,8 +59,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="module-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -40,13 +75,18 @@
     </option>
   </component>
   <component name="ProjectId" id="1XszhfgF1dnb4FO391LKs8ARqi8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -75,15 +115,15 @@
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
-      <command value="mvn clean" />
       <command value="mvn " />
+      <command value="mvn clean" />
       <command value="mvn clean install" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.shaheen.Main" />
-      <module name="Day1-CreatXml" />
+      <module name="Day2-JEE-Json" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.shaheen.*" />
@@ -107,9 +147,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.shaheen.Main" />
-      <module name="Day1-ChangeDataOnXml" />
+      <module name="Day2-SaxParser" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.shaheen.*" />
@@ -120,8 +160,62 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shaheen.Main" />
+      <module name="Day1-ChangeDataOnXml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shaheen.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shaheen.Main" />
+      <module name="Day1-CreatXml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shaheen.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shaheen.Main" />
+      <module name="Day1-PrintXml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shaheen.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shaheen.Main" />
+      <module name="Day2-SaxParser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shaheen.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
@@ -139,70 +233,83 @@
       <option name="presentableId" value="Default" />
       <updated>1581849710592</updated>
       <workItem from="1581849714197" duration="6521000" />
-      <workItem from="1581856261435" duration="4486000" />
+      <workItem from="1581856261435" duration="5189000" />
+      <workItem from="1581939051586" duration="4347000" />
+      <workItem from="1581944191726" duration="3058000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="455" y="120" width="1050" height="838" key="#Project_Structure" timestamp="1581849771710">
+    <state x="455" y="120" width="1000" height="838" key="#Notifications" timestamp="1581943173813">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state x="455" y="120" width="1050" height="838" key="#Project_Structure/0.24.1920.1032@0.24.1920.1032" timestamp="1581849771710" />
+    <state x="455" y="120" width="1000" height="838" key="#Notifications/0.24.1920.1032@0.24.1920.1032" timestamp="1581943173813" />
+    <state x="455" y="120" width="1053" height="838" key="#Project_Structure" timestamp="1581946129732">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state x="455" y="120" width="1053" height="838" key="#Project_Structure/0.24.1920.1032@0.24.1920.1032" timestamp="1581946129732" />
     <state x="555" y="331" width="800" height="417" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581857383876">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
     <state x="555" y="331" width="800" height="417" key="#com.intellij.fileTypes.FileTypeChooser/0.24.1920.1032@0.24.1920.1032" timestamp="1581857383876" />
-    <state x="727" y="188" width="456" height="703" key="#com.intellij.ide.util.MemberChooser" timestamp="1581851946194">
+    <state x="727" y="188" width="456" height="703" key="#com.intellij.ide.util.MemberChooser" timestamp="1581946399820">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state x="727" y="188" width="456" height="703" key="#com.intellij.ide.util.MemberChooser/0.24.1920.1032@0.24.1920.1032" timestamp="1581851946194" />
-    <state width="1864" height="387" key="GridCell.Tab.0.bottom" timestamp="1581861610774">
+    <state x="727" y="188" width="456" height="703" key="#com.intellij.ide.util.MemberChooser/0.24.1920.1032@0.24.1920.1032" timestamp="1581946399820" />
+    <state width="1864" height="427" key="GridCell.Tab.0.bottom" timestamp="1581947265151">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state width="1864" height="387" key="GridCell.Tab.0.bottom/0.24.1920.1032@0.24.1920.1032" timestamp="1581861610774" />
-    <state width="1864" height="387" key="GridCell.Tab.0.center" timestamp="1581861610774">
+    <state width="1864" height="427" key="GridCell.Tab.0.bottom/0.24.1920.1032@0.24.1920.1032" timestamp="1581947265151" />
+    <state width="1864" height="427" key="GridCell.Tab.0.center" timestamp="1581947265149">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state width="1864" height="387" key="GridCell.Tab.0.center/0.24.1920.1032@0.24.1920.1032" timestamp="1581861610774" />
-    <state width="1864" height="387" key="GridCell.Tab.0.left" timestamp="1581861610773">
+    <state width="1864" height="427" key="GridCell.Tab.0.center/0.24.1920.1032@0.24.1920.1032" timestamp="1581947265149" />
+    <state width="1864" height="427" key="GridCell.Tab.0.left" timestamp="1581947265148">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state width="1864" height="387" key="GridCell.Tab.0.left/0.24.1920.1032@0.24.1920.1032" timestamp="1581861610773" />
-    <state width="1864" height="387" key="GridCell.Tab.0.right" timestamp="1581861610774">
+    <state width="1864" height="427" key="GridCell.Tab.0.left/0.24.1920.1032@0.24.1920.1032" timestamp="1581947265148" />
+    <state width="1864" height="427" key="GridCell.Tab.0.right" timestamp="1581947265150">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state width="1864" height="387" key="GridCell.Tab.0.right/0.24.1920.1032@0.24.1920.1032" timestamp="1581861610774" />
-    <state width="1864" height="320" key="GridCell.Tab.1.bottom" timestamp="1581859288321">
+    <state width="1864" height="427" key="GridCell.Tab.0.right/0.24.1920.1032@0.24.1920.1032" timestamp="1581947265150" />
+    <state width="1864" height="320" key="GridCell.Tab.1.bottom" timestamp="1581862291655">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state width="1864" height="320" key="GridCell.Tab.1.bottom/0.24.1920.1032@0.24.1920.1032" timestamp="1581859288321" />
-    <state width="1864" height="320" key="GridCell.Tab.1.center" timestamp="1581859288320">
+    <state width="1864" height="320" key="GridCell.Tab.1.bottom/0.24.1920.1032@0.24.1920.1032" timestamp="1581862291655" />
+    <state width="1864" height="320" key="GridCell.Tab.1.center" timestamp="1581862291655">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state width="1864" height="320" key="GridCell.Tab.1.center/0.24.1920.1032@0.24.1920.1032" timestamp="1581859288320" />
-    <state width="1864" height="320" key="GridCell.Tab.1.left" timestamp="1581859288320">
+    <state width="1864" height="320" key="GridCell.Tab.1.center/0.24.1920.1032@0.24.1920.1032" timestamp="1581862291655" />
+    <state width="1864" height="320" key="GridCell.Tab.1.left" timestamp="1581862291655">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state width="1864" height="320" key="GridCell.Tab.1.left/0.24.1920.1032@0.24.1920.1032" timestamp="1581859288320" />
-    <state width="1864" height="320" key="GridCell.Tab.1.right" timestamp="1581859288321">
+    <state width="1864" height="320" key="GridCell.Tab.1.left/0.24.1920.1032@0.24.1920.1032" timestamp="1581862291655" />
+    <state width="1864" height="320" key="GridCell.Tab.1.right" timestamp="1581862291655">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state width="1864" height="320" key="GridCell.Tab.1.right/0.24.1920.1032@0.24.1920.1032" timestamp="1581859288321" />
+    <state width="1864" height="320" key="GridCell.Tab.1.right/0.24.1920.1032@0.24.1920.1032" timestamp="1581862291655" />
+    <state x="704" y="195" width="1143" height="839" key="Maven.ArtifactSearchDialog" timestamp="1581945968376">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state x="704" y="195" width="1143" height="839" key="Maven.ArtifactSearchDialog/0.24.1920.1032@0.24.1920.1032" timestamp="1581945968376" />
     <state x="146" y="24" width="1449" height="1031" key="SettingsEditor" timestamp="1581857745900">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
     <state x="146" y="24" width="1449" height="1031" key="SettingsEditor/0.24.1920.1032@0.24.1920.1032" timestamp="1581857745900" />
-    <state x="513" y="174" width="884" height="731" key="new project wizard" timestamp="1581854369348">
+    <state x="513" y="174" width="884" height="731" key="new project wizard" timestamp="1581943009037">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state x="513" y="174" width="884" height="731" key="new project wizard/0.24.1920.1032@0.24.1920.1032" timestamp="1581854369348" />
-    <state x="540" y="243" width="840" height="1034" key="run.anything.popup" timestamp="1581861610797">
+    <state x="513" y="174" width="884" height="731" key="new project wizard/0.24.1920.1032@0.24.1920.1032" timestamp="1581943009037" />
+    <state x="540" y="243" width="840" height="1034" key="run.anything.popup" timestamp="1581946220343">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state x="540" y="243" width="840" height="1034" key="run.anything.popup/0.24.1920.1032@0.24.1920.1032" timestamp="1581861610797" />
+    <state x="540" y="243" width="840" height="1034" key="run.anything.popup/0.24.1920.1032@0.24.1920.1032" timestamp="1581946220343" />
     <state x="539" y="23" width="840" height="1034" key="search.everywhere.popup" timestamp="1581858575669">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>

@@ -1,0 +1,10 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÜýÈÀøÿÿÿÿ8¸þú˜….
+nsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Á¯ñÓ8¼ìç˜….
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼‡ö§ùÿÿÿÿ8…¢Ñ˜….
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(“‰æ„ûÿÿÿÿ8øðÿ—….
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(èÎ¯×ûÿÿÿÿ8øðÿ—….

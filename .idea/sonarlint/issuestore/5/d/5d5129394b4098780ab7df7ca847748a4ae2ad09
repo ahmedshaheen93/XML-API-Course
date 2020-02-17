@@ -1,0 +1,10 @@
+
+Ksquid:S2755"-Disable XML external entity (XXE) processing.(®£8²ŒÃ—….
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ô¹Ã—….
+gsquid:S2147"DCombine this catch with the one at line 22, which has the same body.(ÊÊÆƒüÿÿÿÿ8Ô¹Ã—….
+asquid:UselessImportCheck
+"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8ëúÀ—….
+bsquid:S2147"DCombine this catch with the one at line 22, which has the same body.(ï­£Ä8ùÉ×—….
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ô¹Ã—….
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ùÉ×—….
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÕÙ—….

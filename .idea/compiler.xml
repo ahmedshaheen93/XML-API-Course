@@ -6,9 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Day2-SaxParser" />
+        <module name="Day1-CreatXml" />
         <module name="Day1-ChangeDataOnXml" />
         <module name="Day1-PrintXml" />
-        <module name="Day1-CreatXml" />
+        <module name="Day2-JEE-Json" />
       </profile>
     </annotationProcessing>
   </component>
