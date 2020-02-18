@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="messages" type="message"/>
+    <xs:complexType name="message">
+        <xs:sequence>
+            <xs:element name="id" type="xs:unsignedInt"/>
+            <xs:element name="messageContent" type="xs:string"/>
+            <xs:element name="style" type="style"/>
+            <xs:element name="userFrom" type="User"/>
+            <xs:element name="chatGroup" type="ChatGroup"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="User">
+        <xs:sequence>
+            <xs:element name="id" type="xs:unsignedInt"/>
+            <xs:element name="firstName" type="xs:string"/>
+            <xs:element name="lastName" type="xs:string"/>
+            <xs:element name="phone" type="xs:string"/>
+            <xs:sequence>
+                <xs:element name="friends" type="User"/>
+            </xs:sequence>
+            <xs:sequence>
+                <xs:element name="chatGroups" type="ChatGroup"/>
+            </xs:sequence>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="ChatGroup">
+        <xs:sequence>
+            <xs:element name="id" type="xs:unsignedInt"/>
+            <xs:element name="name" type="xs:string"/>
+            <xs:sequence>
+                <xs:element name="users" type="User"/>
+            </xs:sequence>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="style">
+        <xs:sequence>
+            <xs:element name="fill" type="xs:string"/>
+            <xs:element name="font-name" type="xs:string"/>
+            <xs:element name="font-family" type="xs:string"/>
+            <xs:element name="font-size" type="xs:string"/>
+            <xs:element name="font-weight" type="xs:string"/>
+            <xs:element name="fill-background" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+    <id>1</id>
+    <messageContent>my message</messageContent>
+    <style>
+        <fill>WIGHT</fill>
+        <font-name>Arial</font-name>
+        <font-family>Arial</font-family>
+        <font-size>12</font-size>
+        <font-weight>Bold</font-weight>
+        <fill-background>BLACK</fill-background>
+    </style>
+    <userFrom>
+        <id>0</id>
+        <firstName>ahmed</firstName>
+        <lastName>ahmed</lastName>
+        <phone>0100000000000</phone>
+        <chatGroups>
+            <id>2</id>
+            <name>my chat group</name>
+        </chatGroups>
+    </userFrom>
+    <chatGroup>
+        <id>2</id>
+        <name>my chat group</name>
+    </chatGroup>
+</messages>

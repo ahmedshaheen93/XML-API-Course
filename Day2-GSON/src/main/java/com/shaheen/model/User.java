@@ -1,7 +1,5 @@
 package com.shaheen.model;
 
-import com.shaheen.model.Address;
-
 public class User {
     private int id ;
     private String name ;

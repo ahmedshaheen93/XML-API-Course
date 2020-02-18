@@ -6,7 +6,6 @@ import com.shaheen.model.User;
 import javax.json.*;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -54,21 +53,24 @@ public class WriteJson {
     }
 
     private JsonObject createJsonObject(User user) {
-        JsonObject userJson = Json.createObjectBuilder()
+        return Json.createObjectBuilder()
                 .add("id", user.getId())
                 .add("name", user.getName())
                 .add("age", user.getAge())
                 .add("address", Json.createObjectBuilder()
+                        .add("id", user.getAddress().getId())
                         .add("country", user.getAddress().getCountry())
                         .add("city", user.getAddress().getCity())
                         .add("street", user.getAddress().getStreet()).build()
                 ).build();
-        return userJson;
 
     }
 
     public void writeArray(List<User> users){
+        //convert user to jsonObjects
         List<JsonObject> jsonObjects = new ArrayList<>();
+
+
         for (User user : users){
             jsonObjects.add(createJsonObject(user));
         }
@@ -77,7 +79,8 @@ public class WriteJson {
             arrayBuilder.add(jsonObject);
         }
         JsonArray jsonArray = arrayBuilder.build();
-        System.out.println(jsonArray);
         writeToJsonFile(jsonArray,"listUsers.json");
+
     }
+
 }
